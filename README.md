@@ -1,8 +1,8 @@
 ## Danny Rajalingam
 
-Oxford DPhil in hypersonics, now building **[Ember](https://github.com/Danny-r-2000)** — AI to augment the physical and human-labor workforce.
+Oxford DPhil in hypersonics, now building **[Ember](https://github.com/Danny-r-2000)** — AI to empower workers, not replace them.
 
-My thesis is that the next wave of useful AI for the real world is **inverted**: the assistant speaks first, without being asked, based on the state of the work in front of the person. The old model — *type a question, read a wall of text* — does not survive contact with a bricklayer whose hands are covered in mortar or a turbine engineer trying to keep a string line straight. The two pinned repos below are my working proofs of that thesis, each tied to one half of my background.
+My vision is that the next wave of useful AI for the real world is **inverted**: the assistant speaks first, without being asked, based on the state of the work in front of the person. The old model — *type a question, read a wall of text* — does not survive contact with a bricklayer whose hands are covered in mortar or a turbine engineer trying to keep a string line straight. The two pinned repos below are my working proofs of that thesis, each tied to one half of my background.
 
 ### Featured projects
 
