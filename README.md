@@ -18,8 +18,8 @@ My vision is that the next wave of useful AI for the real world is **inverted**:
 
 ### About me
 
-I did my doctorate on hypersonic boundary-layer transition and the physics of shock/boundary-layer interaction, which is mostly a story about how to get useful numbers out of a regime where your measurements lie to you and your simulations disagree with themselves. That background is why I think Ember's bet — AI copilots for environments where the user cannot stop, type, or read — is the right shape of problem.
+I am a PhD student at Oxford working on hypersonic flight and spacecraft reentry. I use AI agents to automate CFD, workflows, and create new engineering methods. 
 
-- 📫 Reach me at [ramondannyrajalingam@gmail.com](mailto:ramondannyrajalingam@gmail.com)
+- 📫 Reach me at [danny.rajalingam@ember-info.com](mailto:danny.rajalingam@ember-info.com)
 - 🧭 [LinkedIn](https://www.linkedin.com/in/danny-r-554a87193)
-- 🔥 Ember is pre-seed. If you work on construction, warehouse, field-service, or enterprise onboarding problems and want to compare notes, say hi.
+- 🔥 Ember is pre-seed. If you work on construction, HSE, or AI, come say hi.
