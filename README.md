@@ -6,9 +6,15 @@ My vision is that the next wave of useful AI for the real world is **inverted**:
 
 ### Featured projects
 
+**[case](https://github.com/Danny-r-2000/rocky)** &nbsp;—&nbsp; my calm, collected, critique!
+
+**[tars](https://github.com/Danny-r-2000/rocky)** &nbsp;—&nbsp; my coding pal!
+
+**[rocky](https://github.com/Danny-r-2000/rocky)** &nbsp;—&nbsp; my personal PA to help me manage the operations of my startup. Rocky (the eridian not boxer) is sassy but get the job done. Every morning, Rocky summarises my work, tells me about my upcoming meetings, and does research to help me prep for the work to come. Rocky also flags work or emails I have not gotten around to. We all need a Rocky in our lives!!!
+
 **[hypersonic_boundary_layers](https://github.com/Danny-r-2000/hypersonic_boundary_layers)** &nbsp;—&nbsp; a physics-informed neural network toolkit for hypersonic boundary-layer heating, wrapped in a proactive research copilot. A semi-supervised PINN for the Blasius equation with a custom output transform beats a data-only MLP by **4.4× RMSE** on the shear profile using only eight sparse samples. Pure-NumPy autograd, no torch dependency, installs in under five seconds. `Python` · `PINNs` · `Hypersonics` · `CFD`
 
-**[ember-rocky](https://github.com/Danny-r-2000/ember-rocky)** &nbsp;—&nbsp; the reference implementation of Ember's inverted-UX thesis. A ~90-line event-driven proactive loop with pluggable role triggers that produce different guidance for different people from the same event stream: a novice bricklayer gets a step-by-step brief, the foreman gets a one-sentence crew rollup, the safety officer gets an audit-ready incident line. Runs end-to-end with zero credentials and zero hardware. `Python` · `AI-agents` · `Voice-first` · `Construction-tech`
+
 
 ### About me
 
