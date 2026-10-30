@@ -16,7 +16,7 @@ A construction job changes. The paperwork has to keep up.
 
 Ember writes, checks, and keeps safety documents current. Risk assessments, method statements, permits, and temporary works records. Each finding quotes its source. People review the evidence and sign off. Crews use their phones; managers get the review queue and audit trail.
 
-**Built on live sites with Laing O'Rourke, Oxford Estates, and Scale Space. Backed by Sterling Road and the University of Oxford.** We started in Oxford and now serve teams in the UK and the US.
+**Built on live sites.** We started in Oxford and now serve teams in the UK and the US.
 
 [See the product](https://www.ember-info.com/product) · [Ember repository, access required](https://github.com/ember-ai-labs/ember) · [How we started](https://www.ember-info.com/about)
 
