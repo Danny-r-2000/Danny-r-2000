@@ -1,25 +1,70 @@
-## Danny Rajalingam
+# Danny Rajalingam
 
-Oxford DPhil in hypersonics, now building **[Ember](https://github.com/Danny-r-2000)** — AI to empower workers, not replace them.
+**Building AI for the physical world.**
 
-My vision is that the next wave of useful AI for the real world is **inverted**: the assistant speaks first, without being asked, based on the state of the work in front of the person. The old model — *type a question, read a wall of text* — does not survive contact with a bricklayer whose hands are covered in mortar or a turbine engineer trying to keep a string line straight. The two pinned repos below are my working proofs of that thesis, each tied to one half of my background.
+Co-founder & CEO of **[Ember](https://www.ember-info.com/)**. Oxford DPhil researcher in **hypersonics**. Previously **Rolls-Royce Aerospace**. Now building in San Francisco.
 
-### Featured projects
+I build the product, the agents that help me run the company, and the research tools I wish I had in the lab. The common thread is AI that understands the work in front of someone and helps them act on it.
 
-**[case](https://github.com/Danny-r-2000/rocky)** &nbsp;—&nbsp; my calm, collected, critique!
+[Explore Ember](https://www.ember-info.com/) · [Guardian in 3D](https://www.ember-info.com/guardian) · [Research code](https://github.com/Danny-r-2000/hypersonic_boundary_layers) · [LinkedIn](https://www.linkedin.com/in/danny-rajalingam/) · [Email](mailto:danny.rajalingam@ember-info.com)
 
-**[tars](https://github.com/Danny-r-2000/rocky)** &nbsp;—&nbsp; my coding pal!
+## Ember is my main focus
 
-**[rocky](https://github.com/Danny-r-2000/rocky)** &nbsp;—&nbsp; my personal PA to help me manage the operations of my startup. Rocky (the eridian not boxer) is sassy but get the job done. Every morning, Rocky summarises my work, tells me about my upcoming meetings, and does research to help me prep for the work to come. Rocky also flags work or emails I have not gotten around to. We all need a Rocky in our lives!!!
+A construction job changes. The paperwork has to keep up.
 
-**[hypersonic_boundary_layers](https://github.com/Danny-r-2000/hypersonic_boundary_layers)** &nbsp;—&nbsp; a physics-informed neural network toolkit for hypersonic boundary-layer heating, wrapped in a proactive research copilot. A semi-supervised PINN for the Blasius equation with a custom output transform beats a data-only MLP by **4.4× RMSE** on the shear profile using only eight sparse samples. Pure-NumPy autograd, no torch dependency, installs in under five seconds. `Python` · `PINNs` · `Hypersonics` · `CFD`
+Ember writes, checks, and keeps safety documents current. Risk assessments, method statements, permits, and temporary works records. Each finding quotes its source. People review the evidence and sign off. Crews use their phones; managers get the review queue and audit trail.
 
+**Built on live sites with Laing O'Rourke, Oxford Estates, and Scale Space. Backed by Sterling Road and the University of Oxford.** We started in Oxford and now serve teams in the UK and the US.
 
+[See the product](https://www.ember-info.com/product) · [How we started](https://www.ember-info.com/about)
 
-### About me
+### Ember Guardian
 
-I am a PhD student at Oxford working on hypersonic flight and spacecraft reentry. I use AI agents to automate CFD, workflows, and create new engineering methods. 
+I'm also developing Guardian, a connected hardhat concept with a camera and bone-conduction audio. The aim is to help workers spot hazards while their hands are busy. It extends the same work into computer vision and wearable hardware.
 
-- 📫 Reach me at [danny.rajalingam@ember-info.com](mailto:danny.rajalingam@ember-info.com)
-- 🧭 [LinkedIn](https://www.linkedin.com/in/danny-r-554a87193)
-- 🔥 Ember is pre-seed. If you work on construction, HSE, or AI, come say hi.
+**Concept in development.** Explore the interactive 3D design and watch the concept demo.
+
+<a href="https://www.ember-info.com/guardian">
+  <img src="https://www.ember-info.com/images/guardian-concept.png" alt="Ember Guardian connected hardhat concept, currently in development. Open the interactive 3D design." width="420" />
+</a>
+
+## My personal agents
+
+I use the company as a proving ground for the agents I build.
+
+| Agent | Work it handles |
+| --- | --- |
+| **Rocky** | My chief of staff. Morning briefings, meeting preparation, email drafts, follow-ups, and memory of people, projects, and commitments. |
+| **Friday** | Sales and marketing. Company research, call preparation, pipeline tracking, CRM reports, and outreach drafts. |
+
+They combine durable memory, scheduled workflows, and Slack conversations with shared company context. External messages stay under human review. Friday calculates CRM metrics in Python before an agent writes the report.
+
+<details>
+<summary>Earlier builds: TARS, CASE, and Victra</summary>
+
+I also built **TARS** to implement approved specifications, **CASE** for code review and pre-mortems, and **Victra** for product planning. Those original runtimes are now shelved or retired. They helped me work out where to separate implementation, review, and approval.
+
+</details>
+
+## Hypersonics, with the experiment attached
+
+My Oxford research concerns hypersonic flight and spacecraft reentry. [Hypersonic Copilot](https://github.com/Danny-r-2000/hypersonic_boundary_layers) combines a physics-informed neural network, a pure-NumPy reverse-mode autograd engine, classical boundary-layer models, and a proactive research monitor.
+
+The repository's **Blasius laminar-flow benchmark** reconstructs a velocity profile from **eight samples**.
+
+| Model | Normalized-velocity RMSE |
+| --- | ---: |
+| Data-only MLP | 0.03232 |
+| Physics-informed network | **0.00726** |
+
+**4.45× lower error** on this benchmark. The saved metrics and training script are public.
+
+[Inspect the metrics](https://github.com/Danny-r-2000/hypersonic_boundary_layers/blob/main/figures/metrics.json) · [Reproduce the experiment](https://github.com/Danny-r-2000/hypersonic_boundary_layers/blob/main/scripts/train_and_plot.py) · [See the comparison](https://github.com/Danny-r-2000/hypersonic_boundary_layers/blob/main/figures/pinn_vs_data_only.png)
+
+## Websites and product experiences
+
+I build the web experiences around the work too. [Ember's website](https://www.ember-info.com/) includes product demos, customer workflows, and signup flows. The [Guardian experience](https://www.ember-info.com/guardian) lets visitors rotate and explore the hardware concept. My web stack includes Next.js, React, TypeScript, and Tailwind.
+
+Before Oxford, I studied Advanced Aeronautical Engineering at Imperial College London and worked as an aerospace graduate engineer at Rolls-Royce.
+
+**Building in construction, engineering, or applied AI? [Get in touch](mailto:danny.rajalingam@ember-info.com).**
