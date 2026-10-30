@@ -4,9 +4,11 @@
 
 Co-founder & CEO of **[Ember](https://www.ember-info.com/)**. Oxford DPhil researcher in **hypersonics**. Previously **Rolls-Royce Aerospace**. Now building in San Francisco.
 
-I build the product, the agents that help me run the company, and the research tools I wish I had in the lab. The common thread is AI that understands the work in front of someone and helps them act on it.
+I build **agentic tools for aerospace vehicle design, research, and experiments**. My [open research code](https://github.com/Danny-r-2000/hypersonic_boundary_layers) includes aerodynamic surrogates for exploring design choices, physics-informed boundary-layer models, and a copilot that analyses CFD snapshots and flags deviations from target conditions.
 
-[Explore Ember](https://www.ember-info.com/) · [Guardian in 3D](https://www.ember-info.com/guardian) · [Research code](https://github.com/Danny-r-2000/hypersonic_boundary_layers) · [LinkedIn](https://www.linkedin.com/in/danny-rajalingam/) · [Email](mailto:danny.rajalingam@ember-info.com)
+I bring that same approach to Ember, the personal agents I use to run the company, and the websites that put the work in people's hands.
+
+[Ember website](https://www.ember-info.com/) · [Ember repo, private](https://github.com/ember-ai-labs/ember) · [Research code](https://github.com/Danny-r-2000/hypersonic_boundary_layers) · [LinkedIn](https://www.linkedin.com/in/danny-rajalingam/) · [Email](mailto:danny.rajalingam@ember-info.com)
 
 ## Ember is my main focus
 
@@ -16,17 +18,15 @@ Ember writes, checks, and keeps safety documents current. Risk assessments, meth
 
 **Built on live sites with Laing O'Rourke, Oxford Estates, and Scale Space. Backed by Sterling Road and the University of Oxford.** We started in Oxford and now serve teams in the UK and the US.
 
-[See the product](https://www.ember-info.com/product) · [How we started](https://www.ember-info.com/about)
+[See the product](https://www.ember-info.com/product) · [Ember repository, access required](https://github.com/ember-ai-labs/ember) · [How we started](https://www.ember-info.com/about)
 
-### Ember Guardian
+### Guardian computer vision
 
-I'm also developing Guardian, a connected hardhat concept with a camera and bone-conduction audio. The aim is to help workers spot hazards while their hands are busy. It extends the same work into computer vision and wearable hardware.
+I'm developing Guardian's computer vision models to recognise people, PPE, and site equipment in camera feeds. The work includes model training, evaluation, and a live camera demo. The aim is to flag potential hazards and give Ember visual context for safety workflows.
 
-**Concept in development.** Explore the interactive 3D design and watch the concept demo.
+**In development.** Model observations support human safety decisions.
 
-<a href="https://www.ember-info.com/guardian">
-  <img src="https://www.ember-info.com/images/guardian-concept.png" alt="Ember Guardian connected hardhat concept, currently in development. Open the interactive 3D design." width="420" />
-</a>
+[Watch the Guardian concept demo](https://www.youtube.com/watch?v=HaGzGudV7bU)
 
 ## My personal agents
 
@@ -36,13 +36,14 @@ I use the company as a proving ground for the agents I build.
 | --- | --- |
 | **Rocky** | My chief of staff. Morning briefings, meeting preparation, email drafts, follow-ups, and memory of people, projects, and commitments. |
 | **Friday** | Sales and marketing. Company research, call preparation, pipeline tracking, CRM reports, and outreach drafts. |
+| **Victra** | Product manager. Turns customer signals and founder requests into product specifications, priorities, and plans for what to build next. |
 
-They combine durable memory, scheduled workflows, and Slack conversations with shared company context. External messages stay under human review. Friday calculates CRM metrics in Python before an agent writes the report.
+Rocky and Friday combine durable memory, scheduled workflows, and Slack conversations with shared company context. Victra is active in my product workflow. External messages stay under human review. Friday calculates CRM metrics in Python before an agent writes the report.
 
 <details>
-<summary>Earlier builds: TARS, CASE, and Victra</summary>
+<summary>Earlier builds: TARS and CASE</summary>
 
-I also built **TARS** to implement approved specifications, **CASE** for code review and pre-mortems, and **Victra** for product planning. Those original runtimes are now shelved or retired. They helped me work out where to separate implementation, review, and approval.
+I also built **TARS** to implement approved specifications and **CASE** for code review and pre-mortems. Those original runtimes are now shelved. They helped me work out where to separate implementation, review, and approval.
 
 </details>
 
@@ -63,7 +64,7 @@ The repository's **Blasius laminar-flow benchmark** reconstructs a velocity prof
 
 ## Websites and product experiences
 
-I build the web experiences around the work too. [Ember's website](https://www.ember-info.com/) includes product demos, customer workflows, and signup flows. The [Guardian experience](https://www.ember-info.com/guardian) lets visitors rotate and explore the hardware concept. My web stack includes Next.js, React, TypeScript, and Tailwind.
+I keep building across [Ember's product repository](https://github.com/ember-ai-labs/ember), the [live website](https://www.ember-info.com/), my personal agents, and the public research tools above. The website includes product demos, customer workflows, and signup flows. My web stack includes Next.js, React, TypeScript, and Tailwind. The Ember repository is private and requires access.
 
 Before Oxford, I studied Advanced Aeronautical Engineering at Imperial College London and worked as an aerospace graduate engineer at Rolls-Royce.
 
